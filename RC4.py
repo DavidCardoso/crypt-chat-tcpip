@@ -8,7 +8,7 @@
 #	@date		30/09/2016
 #	@authors	David e Genilson
 #	@copyright	2016 - All rights reserveds
-#	@sa 		http://projetos.imd.ufrn.br/davidcardoso-ti/imd0703/blob/master/chat_criptografado/RC4.py
+#	@sa 		https://github.com/davidcardoso-ti/crypt-chat-tcpip/blob/master/RC4.py
 
 
 import sys # sys - recursos de sistema

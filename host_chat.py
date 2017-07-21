@@ -8,7 +8,7 @@
 #	@date		30/09/2016
 #	@authors	David e Genilson
 #	@copyright	2016 - All rights reserveds
-#	@sa 		http://projetos.imd.ufrn.br/davidcardoso-ti/imd0703/blob/master/chat_criptografado/host_chat.py
+#	@sa 		https://github.com/davidcardoso-ti/crypt-chat-tcpip/blob/master/host_chat.py
 
 import os, sys		# os, sys 	- recursos de sistema
 import socket		# socket 	- usada para criar e gerenciar sockets
